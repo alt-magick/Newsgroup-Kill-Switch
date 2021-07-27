@@ -32,4 +32,4 @@ INSTRUCTIONS
 	sudo screen -ls        (Find the kill switch)
 	screen -r killswitch   (Opens the screen)	
 	Ctrl+c                 (Closes the program)
-	exit	                 (Stops the screen)
+	exit	               (Stops the screen)

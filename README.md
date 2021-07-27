@@ -17,8 +17,8 @@ INSTRUCTIONS
 	Test.
   
 (2) Install screen:
-	
-  sudo apt install screen
+
+	sudo apt install screen
   
 (3) Run the kill switch:
 

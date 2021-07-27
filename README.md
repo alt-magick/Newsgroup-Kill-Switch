@@ -1,8 +1,8 @@
 # Newsgroup-Kill-Switch
-A python kill switch that posts to newsgroups
+A kill switch that can post to newsgroups
 
 
-Use your own news server or go to https://www.eternal-september.org/
+Use your own usenet server or go to https://www.eternal-september.org/
 
 INSTRUCTIONS
 

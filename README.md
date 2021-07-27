@@ -1,4 +1,4 @@
-# Newsgroup-Kill-Switch
+# Newsgroup Kill Switch
 A kill switch that can post to newsgroups
 
 

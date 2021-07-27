@@ -1,2 +1,2 @@
 # Newsgroup-Kill-Switch
-A python kill switch that will post to newsgroups
+A python kill switch that posts to newsgroups

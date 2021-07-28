@@ -1,5 +1,5 @@
 # Newsgroup Kill Switch
-A dead mans switch that posts to newsgroups
+A dead man's switch that posts to newsgroups
 
 
 Use your own usenet server or go to https://www.eternal-september.org/

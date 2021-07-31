@@ -9,7 +9,7 @@ import time,datetime
 t = datetime.datetime.today()
 print("\n[Current Time]\n")
 print(t)
-print("\n"
+print("\n")
 print("\n[Time Of Future Post]\n")
 print("Year: ")
 year = int(input())    

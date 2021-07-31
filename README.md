@@ -12,7 +12,6 @@ INSTRUCTIONS
 	Newsgroups: alt.magick
 	Subject: Post Topic
 	Message-I.D.: <unique-string-1234@dont-email.me>
-	Date: Monday, 26 Jul 2021 13:30:58 -0400 (EDT)
   
 	Test.
   
@@ -22,7 +21,7 @@ INSTRUCTIONS
   
 (3) Run the kill switch:
 
-	sudo screen -S killswitch ./switch.py
+	sudo screen -S killswitch ./switch.py article.txt
 	Input the date & time for the post
 	Type: 'Ctrl + A' , then 'd'
 	The kill switch now runs in the background

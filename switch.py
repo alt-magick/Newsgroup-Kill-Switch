@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) 2021 Corey White
 
 import nntplib
 import string

@@ -32,7 +32,7 @@ future = datetime.datetime(year,month,day,hour,minute)
 
 while(1):
 
-  if t < future:
+  if t > future:
 
     server = nntplib.NNTP('news.eternal-september.org', user='name', password='password')
     f = open(sys.argv[1], 'rb')

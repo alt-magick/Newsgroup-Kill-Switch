@@ -1,5 +1,5 @@
 # Newsgroup Kill Switch
-A dead man's switch that posts to newsgroups over NNTP
+A Usenet dead man's switch that posts to newsgroups over NNTP
 
 
 Use your own usenet server or go to https://www.eternal-september.org/
